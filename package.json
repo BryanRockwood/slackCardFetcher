@@ -1,9 +1,9 @@
 {
-  "name": "Card_Fetcher",
+  "name": "card-fetcher",
   "version": "0.0.0",
   "private": true,
-  "author": "Rock",
-  "description": "Fetches cards on command",
+  "author": "Rocky",
+  "description": "Helpful bot that retrieves cards from gatherer api",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
